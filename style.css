@@ -1,0 +1,46 @@
+body {
+    background-color: #AED8CC;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+
+article {
+    text-align: center;
+}
+
+ul,
+ol,
+li {
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+a {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #CD6688;
+    font-size: 80;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #7A316F;
+    font-size: 60;
+}
+
+h3 {
+    color: #461959;
+    font-size: 45;
+
+}
+
+a {
+    color: #D71313;
+
+}
